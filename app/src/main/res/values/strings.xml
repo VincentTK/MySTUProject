@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MySTUProject</string>
+
+
+    <string-array name="stu_position_choose">
+        <item>至诚书院</item>
+        <item>DG教学楼</item>
+        <item>思源书院</item>
+        <item>知行书院</item>
+        <item>新行政楼</item>
+        <item>讲堂</item>
+        <item>E座教学楼</item>
+        <item>CD宿舍</item>
+        <item>G座宿舍</item>
+
+    </string-array>
+</resources>
